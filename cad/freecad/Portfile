@@ -7,6 +7,7 @@ PortGroup               qt6 1.0
 PortGroup               boost 1.0
 
 github.setup            FreeCAD FreeCAD 26.3rc2
+revision                1
 name                    freecad
 categories              cad
 maintainers             {gmail.com:mark.brethen @mbrethen} openmaintainer
